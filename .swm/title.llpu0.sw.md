@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.9.7-0
 file_blobs:
   12-fancy-font-families.html: c79afff327e1e843058b1415680108efe4962cd5
-  06-apples-and-bananas-classes.html: 1374662eacbcd9d9c502ed2462d91fe1a0d2a775
+  06-apples-and-bananas-classes.html: 419b9b910630319f3b6c0c79860e99ef87b06f09
 ---
 
 # H1
@@ -17,11 +17,10 @@ file_blobs:
 
 
 
-[[sym-mention:(7655ae08-7b69-4ee6-9fe2-1dbb82a17e7f|17aUPi)emiliya@swimm.io]]
+\[\[sym-mention:(7655ae08-7b69-4ee6-9fe2-1dbb82a17e7f|17aUPi)[emiliyaswimm.io](mailto:emilaswiio)\]\]
 
-  
-paragraph_  
-paragraph_  
+paragraph\_  
+paragraph\_  
 **paragraph**
 
 <br/>
@@ -100,7 +99,7 @@ codeblock
 🟩 14                     color:red;
 🟩 15                 }
 🟩 16                 .bananas{
-🟩 17                     color:yellow;
+🟩 17                     color:green;
 🟩 18                 }
 🟩 19             </style>
 🟩 20         </head>
